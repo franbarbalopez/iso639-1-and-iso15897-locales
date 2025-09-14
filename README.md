@@ -1,0 +1,1 @@
+# iso639-1-and-iso15897-locales
